@@ -22,7 +22,46 @@ body{
 }
 .title h3{
     text-align: None;
+    text-decoration:underline;
     color: #74e84d;
     font-size: 1.5em;
     margin-bottom: 5px;
+}
+.info ul{
+    list-style: none;
+    padding: 0;
+    margin: 10px;
+    
+}
+.info li{
+    margin-bottom: 5px;
+    font-weight:500;
+}
+
+section h2{
+    color: #74e84d;
+    font-size: 1.5em;
+    margin-top: 20px;
+    text-decoration: Underline;
+    padding-bottom: 5px;
+
+}
+section p{margin: 10px;
+    font-size: 1.2em;
+    color: #7a8de2;
+    
+}
+section ul{
+    padding-left: 20px;
+}
+section ul li{
+    margin-bottom: 5px;
+    font-size: 1.1em;
+}
+a{
+    color: #a9250e;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
 }
